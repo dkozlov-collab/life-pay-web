@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://life-pay-web.onrender.com/api/:path*"
+    }
+  ]
+}
